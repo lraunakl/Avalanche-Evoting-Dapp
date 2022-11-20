@@ -1,0 +1,25 @@
+{
+  "name": "e-voting-dapp",
+  "version": "1.0.0",
+  "description": "e-Voting dApp on Avalanche Fuji testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawseefnabi/e-Voting-dApp.git"
+  },
+  "author": "tawseefnabi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawseefnabi/e-Voting-dApp/issues"
+  },
+  "homepage": "https://github.com/tawseefnabi/e-Voting-dApp#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "truffle": "^5.6.6"
+  }
+}

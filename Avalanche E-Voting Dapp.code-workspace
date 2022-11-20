@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../e-Voting-dApp-main/e-Voting-dApp-main/assets"
+		},
+		{
+			"path": "../e-Voting-dApp-main/e-Voting-dApp-main/build"
+		},
+		{
+			"path": "../e-Voting-dApp-main/e-Voting-dApp-main/contracts"
+		},
+		{
+			"path": "../e-Voting-dApp-main/e-Voting-dApp-main/migrations"
+		},
+		{
+			"path": "../e-Voting-dApp-main/e-Voting-dApp-main/src"
+		},
+		{
+			"path": "../e-Voting-dApp-main/e-Voting-dApp-main/test"
+		}
+	],
+	"settings": {}
+}
